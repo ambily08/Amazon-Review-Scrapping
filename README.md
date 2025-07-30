@@ -31,7 +31,7 @@ Installation Instructions
 
 1. Clone the Repository
 
-git clone https://github.com/ambily08/amazon-sentiment-analysis.git
+git clone https://github.com/ambily08/Amazon-Review-Scrapping.git
 cd amazon-sentiment-analysis
 
 2. Install Requirements
